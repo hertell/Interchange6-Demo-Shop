@@ -61,4 +61,5 @@ plugins:
 
 # For session support enable the following line and see Dancer::Session
 # session: "YAML"
+# session_dir: "/tmp/dancer-sessions"
 
